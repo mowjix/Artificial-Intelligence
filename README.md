@@ -5,3 +5,9 @@
 
 Porting the `Vali-e-Asr University of Rafsanjan` assignments/department of computer science.
 
+`
+    myQueue = util.Stack()
+    visitedNodes = []
+    # (node,actions)
+    myQueue.push((startingNode, []))
+`
