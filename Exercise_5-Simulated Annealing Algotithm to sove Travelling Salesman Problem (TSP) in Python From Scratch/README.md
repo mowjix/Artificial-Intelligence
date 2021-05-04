@@ -1,9 +1,8 @@
-# Simulated Annealing Algotithm to sove Travelling Salesman Problem (TSP) in Python From Scratch
----
+# Simulated Annealing Algorithm to sove Travelling Salesman Problem (TSP) in Python From Scratch
+
      By: Mojtaba Zolfaghari
      Last updated on April 28, 2021
-
-=======
+----
 
 Using [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) metaheuristic to solve the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem), and animating the results.
 
