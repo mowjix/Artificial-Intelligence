@@ -1,4 +1,4 @@
-# Artificial intelligence assignment
+# Artificial intelligence assignments
 
     Mojtaba Zolfaghari
     95143017
