@@ -3,7 +3,6 @@
      By: Mojtaba Zolfaghari
      Last updated on April 29, 2021
 
-=======
 
 Using [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) to solve the [N-Queens problem](https://www.javatpoint.com/n-queens-problems#:~:text=N%20-%20Queens%20problem%20is%20to%20place%20n,4%20queens%20problem%20and%20then%20generate%20it%20).
 
