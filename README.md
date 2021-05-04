@@ -5,4 +5,6 @@
 ---
 
 
-Porting the `Vali-e-Asr University of Rafsanjan` assignments/department of Computer Science.
+Porting the `Vali-e-Asr University of Rafsanjan` assignments.
+
+Department of Computer Science.
